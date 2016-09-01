@@ -44,4 +44,4 @@ wordConfig:
  
 ---
 newConfig:
-  data: Some Value
+  data: Changed Value
